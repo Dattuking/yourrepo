@@ -53,15 +53,18 @@ templates/
 ## Demo Steps
 
 1. **Open the home page:**  
-   ![Home Page Screenshot](screenshots/home.png)  
+   ![Home Page Screenshot](screenshots/<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d4e334b3-19bb-4657-881b-fcc6a91a3e2b" />
+)  
    Fill out the contact form with your name, email, and message.
 
 2. **Submit the form:**  
-   ![Form Submission Screenshot](screenshots/submit.png)  
+   ![Form Submission Screenshot](screenshots/<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6329a9f7-e456-43c8-ab93-5d8475e0d181" />
+)  
    If any field is empty, you’ll see a validation error.
 
 3. **View the success page:**  
-   ![Success Page Screenshot](screenshots/success.png)  
+   ![Success Page Screenshot](screenshots/<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1899a416-c2f7-4a98-bc30-d1e1ff18d404" />
+)  
    After successful submission, you’ll see a confirmation and a list of all submitted entries.
 
 ## Screenshots
